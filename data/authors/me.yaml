@@ -2,48 +2,45 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
+  display: Zhang Jindong Lab
+  given: Jindong
+  family: Zhang
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: ''
 postnominals:
-  - PhD
-  - MIEEE
+  - Lab
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Research Group
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  Zhang Jindong Lab is a research group focused on scientific discovery,
+  academic collaboration, and training the next generation of researchers.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Zhang Jindong Lab
+    url: /
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
+    url: mailto:contact@example.com
+    label: Contact
   - icon: brands/x
-    url: https://x.com/example
+    url: https://x.com/
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=example
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Interdisciplinary Research
+  - Scientific Computing
+  - Data Analysis
+  - Academic Collaboration
 
 education:
   - degree: PhD Computer Science

@@ -13,7 +13,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
+        text: Group Profile
         url: uploads/resume.pdf
       headings:
         about: ''
@@ -35,14 +35,14 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Zhang Jindong Lab conducts research across scientific questions that benefit from rigorous computation, reproducible methods, and close collaboration.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        This website is ready for lab news, members, publications, projects, courses, and event updates.
 
-        Please reach out to collaborate 😃
+        Please update this section with the lab's research directions and contact details.
     design:
       columns: '1'
   - block: collection
